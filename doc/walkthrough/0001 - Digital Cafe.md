@@ -6,7 +6,9 @@ Welcome to Digital Cafe. This is the first installment of an introduction to web
 
 You can think of a web application (henceforth "web app") as a web page that stores data. This sounds like a simple addition, but it isn't. Having to manage data is where almost all the complexity of modern web development comes from. Thankfully, special programming libraries called _frameworks_ are available to help us design and run such applications easily.
 
-In this walkthrough, we will be building a simple e-commerce application for a company that sells coffee. We will use the Django framework to build our web app.
+In this walkthrough, we will be building a simple e-commerce application for a company that sells coffee. Users should be able to browse products, add products to their cart, and check out their orders. There are a lot of requirements in that one sentence.
+
+We will use the Django framework to build our web app. The repository you are in right now is a snapshot of the code we had after writing documents 0001 through 0010. Note that you might not be able to download and run this repository directly, because we have excluded a settings file from the git repository. It shouldn't matter: you are meant to build Digital Cafe from scratch in your own repository. Use this repo as a guide, not as something to copy in its entirety.
 
 ## Objectives
 
