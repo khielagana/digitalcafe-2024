@@ -163,9 +163,9 @@ Web frameworks like Django (the framework we're using now), Flask, Ruby on Rails
 
 I wrote about these in this series of articles:
 
-https://joeilagan.com/article/2024-itm-web-apps-1
-https://joeilagan.com/article/2024-itm-web-apps-2
-https://joeilagan.com/article/2024-itm-web-apps-3
+- https://joeilagan.com/article/2024-itm-web-apps-1
+- https://joeilagan.com/article/2024-itm-web-apps-2
+- https://joeilagan.com/article/2024-itm-web-apps-3
 
 ## Checkpoint
 
