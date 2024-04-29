@@ -1,0 +1,5 @@
+# Folders
+env
+# Files
+digitalcafe/db.sqlite3
+digitalcafe/settings.py
