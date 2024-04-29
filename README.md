@@ -4,6 +4,7 @@
 
 This is the repository for the Digital Cafe walkthrough. Digital Cafe is the scenario that we use to teach students of ITMGT how to build a web application.
 
+If you are a student aiming to complete the Digital Cafe assignment, please head to `doc/walkthrough` and go through each of the documents starting from 0001.
 
 ## Rationale behind choosing Django
 
