@@ -2,7 +2,7 @@
 
 2024-04-28
 
-In the previous section, we discussed how to design the database. The main issue with this is that anyone who wants to use
+In the previous section, we discussed how to design the database. The main issue with this is that anyone who wants to edit data would still need to know how to code. Most people in the world (and very likely your workplace) will not be technical, and they will also have a need to edit data in the backend.
 
 Django provides an "admin" app by default to help your non-technical administrators change the database by themselves. We will set it up in this section.
 
